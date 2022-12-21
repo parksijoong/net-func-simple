@@ -1,7 +1,5 @@
 const chromium = require('chrome-aws-lambda');
 const puppeteer = require('puppeteer-core');
-const { parse } = require('node-html-parser');
-const { pick } = require('lodash');
 const CarSpec = require('./CarSpec.json')  //
 
 
@@ -125,13 +123,9 @@ exports.handler = async function (event, context) {
     await page.goto(url, { waitUntil: 'networkidle0' });
 
 
-    const data = await page.evaluate(() => document.querySelector('*').outerHTML)
-
-    const root = parse(data)
-    const jsondata = JSON.parse(root.querySelector('#hdnJsonResult').attributes.value);
+    const jsondata = await page.evaluate(() => document.querySelector('#hdnJsonResult').attributes.value)
     const RentFirmFilterddResult = jsondata.SearchResults.filter(a => a.SupplierID == 7 || a.SupplierID == 8 || a.SupplierID == 11 || a.SupplierID == 47 || a.SupplierID == 19)
-    const pickedResult = RentFirmFilterddResult.map(a => pick(a, ['Capacity', 'CarImageUrl', 'ClassID', 'ClassPrice', 'CarType', 'ClassName', 'Class_Info_Comment', 'Class_Info_Comment_detail', 'SmokeKbn', 'logoImg', 'SupplierID', 'UseDayOrTime', 'DeparturePoint', 'ReturnPoint', , 'DepartureClassOffices']))
-    const pricesResult = pickedResult.map(a => {  //가격정리
+    const pricesResult = RentFirmFilterddResult.map(a => {  //가격정리
         a.price = {};
         a.SupplierName = '';
         if (a.ReturnPoint == 147114 || a.DeparturePoint == 147114) {

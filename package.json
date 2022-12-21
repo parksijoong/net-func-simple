@@ -21,8 +21,6 @@
   },
   "dependencies": {
     "chrome-aws-lambda": "^10.1.0",
-    "lodash": "^4.17.21",
-    "node-html-parser": "^6.1.4",
     "puppeteer-core": "^10.4.0"
   }
 }
