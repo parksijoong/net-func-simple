@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/parksijoong/net-func-simple#readme",
   "dependencies": {
-    "puppeteer-core": "^10.4.0"
+    "@sparticuz/chrome-aws-lambda": "^17.1.3"
   }
 }
