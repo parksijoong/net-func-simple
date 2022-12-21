@@ -1,0 +1,456 @@
+[{
+    "ja": "ノート",
+    "ko": "닛산 노트",
+    "en": "note",
+    "passangers": 4,
+    "carrier": 2,
+    "cc": 660
+}, {
+    "ja": "ノートe-POWER",
+    "ko": "닛산 노트e-POWER",
+    "en": "e-Power",
+    "passangers": 5,
+    "carrier": 2,
+    "cc": 1200
+}, {
+    "ja": "デイズ",
+    "ko": "닛산 데이즈",
+    "en": "days",
+    "passangers": 4,
+    "carrier": 1,
+    "cc": 660
+}, {
+    "ja": "ヴィッツ、デミオ、マーチ",
+    "ko": "비츠 | 데미오 | 마치",
+    "en": "demio_vits_march",
+    "passangers": 5,
+    "carrier": 2,
+    "cc": 1200
+}, {
+    "ja": "デミオ、フィット、ノート",
+    "ko": "데미오 | 피트 | 노트",
+    "en": "demio_fit_note",
+    "passangers": 5,
+    "carrier": 2,
+    "cc": 1200
+}, {
+    "ja": "NV350キャラバン",
+    "ko": "닛산 350 카라반",
+    "en": "caravan",
+    "passangers": 10,
+    "carrier": 5,
+    "cc": 2500
+}, {
+    "ja": "デイズルックス",
+    "ko": "닛산 데이즈룩스",
+    "en": "dayslooks",
+    "passangers": 4,
+    "carrier": 1,
+    "cc": 660
+}, {
+    "ja": "ラティオ",
+    "ko": "닛산 라티오",
+    "en": "atio",
+    "passangers": 5,
+    "carrier": 2,
+    "cc": 1200
+}, {
+    "ja": "ラティオ ハイブリッド",
+    "ko": "닛산 라티오 하이브리드",
+    "en": "latio_hybrid",
+    "passangers": 5,
+    "carrier": 2,
+    "cc": 1200
+}, {
+    "ja": "ラフェスタ",
+    "ko": "닛산 라페스타",
+    "en": "lafesta",
+    "passangers": 7,
+    "carrier": 3,
+    "cc": 2000
+}, {
+    "ja": "マーチ",
+    "ko": "닛산 마치",
+    "en": "march",
+    "passangers": 5,
+    "carrier": 2,
+    "cc": 1200
+}, {
+    "ja": "モコ",
+    "ko": "닛산 모코",
+    "en": "moco",
+    "passangers": 4,
+    "carrier": 1,
+    "cc": 660
+}, {
+    "ja": "セレナ",
+    "ko": "닛산 세레나",
+    "en": "serena",
+    "passangers": 8,
+    "carrier": 3,
+    "cc": 2000
+}, {
+    "ja": "ウィングロード",
+    "ko": "닛산 윙로드",
+    "en": "wingroad",
+    "passangers": 5,
+    "carrier": 3,
+    "cc": 1500
+}, {
+    "ja": "キューブ",
+    "ko": "닛산 큐브",
+    "en": "cube",
+    "passangers": 5,
+    "carrier": 2,
+    "cc": 1300
+}, {
+    "ja": "ティーダ",
+    "ko": "닛산 티다",
+    "en": "tiida",
+    "passangers": 5,
+    "carrier": 2,
+    "cc": 1500
+}, {
+    "ja": "エクストレイル",
+    "ko": "닛산 X-TRAIL",
+    "en": "X-TRAIL",
+    "passangers": 4,
+    "carrier": 3,
+    "cc": 2000
+}, {
+    "ja": "ムーヴ",
+    "ko": "다이하츠 무브",
+    "en": "move",
+    "passangers": 4,
+    "carrier": 2,
+    "cc": 660
+}, {
+    "ja": "ミラ",
+    "ko": "다이하츠 미라",
+    "en": "mira",
+    "passangers": 4,
+    "carrier": 2,
+    "cc": 660
+}, {
+    "ja": "ウェイク",
+    "ko": "다이하츠 웨이크",
+    "en": "wake",
+    "passangers": 4,
+    "carrier": 2,
+    "cc": 660
+}, {
+    "ja": "タント",
+    "ko": "다이하츠 텐트",
+    "en": "tanto",
+    "passangers": 4,
+    "carrier": 2,
+    "cc": 660
+}, {
+    "ja": "コペン",
+    "ko": "다이하츠 코펜",
+    "en": "copen",
+    "passangers": 2,
+    "carrier": 0,
+    "cc": 660
+}, {
+    "ja": "ヴィッツ",
+    "ko": "도요타 비츠",
+    "en": "vits",
+    "passangers": 5,
+    "carrier": 2,
+    "cc": 1300
+}, {
+    "ja": "デミオ",
+    "ko": "마쯔다 데미오",
+    "en": "demio",
+    "passangers": 5,
+    "carrier": 2,
+    "cc": 1300
+}, {
+    "ja": "ビアンテ",
+    "ko": "마쯔다 비안테",
+    "en": "biante",
+    "passangers": 8,
+    "carrier": 3,
+    "cc": 2000
+}, {
+    "ja": "ロッキー",
+    "ko": "다이하츠 록키",
+    "en": "rocky",
+    "passangers": 5,
+    "carrier": 2,
+    "cc": 1000
+}, {
+    "ja": "ハイブリッド",
+    "ko": "하이브리드 소형",
+    "en": "hybrid",
+    "passangers": 5,
+    "carrier": 2,
+    "cc": 1000
+}, {
+    "ja": "コンパクトハイブリッド",
+    "ko": "하이브리드 소형",
+    "en": "hybrid",
+    "passangers": 5,
+    "carrier": 2,
+    "cc": 1000
+}, {
+    "ja": "カローラクロス",
+    "ko": "토요타 코롤라 크로스",
+    "en": "corolla cross",
+    "passangers": 5,
+    "carrier": 3,
+    "cc": 1797
+}, {
+    "ja": "カローラ同クラス",
+    "ko": "토요타 코롤라",
+    "en": "corolla cross",
+    "passangers": 5,
+    "carrier": 3,
+    "cc": 1797
+}, {
+    "ja": "【禁煙車】アクセラスポーツ同クラス(C-2)",
+    "ko": "엑셀 스포츠",
+    "en": "axel sports",
+    "passangers": 5,
+    "carrier": 2,
+    "cc": 1500
+}, {
+    "ja": "【禁煙車・オープンカー】輸入車2名乗りオープンカー同クラス",
+    "ko": "수입 2인승 오픈카",
+    "en": "open car",
+    "passangers": 2,
+    "carrier": 2,
+    "cc": 2000
+}, {
+    "ja": "【禁煙車】輸入車SUVクラス",
+    "ko": "수입 SUV",
+    "en": "suv",
+    "passangers": 5,
+    "carrier": 2,
+    "cc": 2000
+}, {
+    "ja": "【禁煙車・オープンカー】イヴォークコンバーチブル同クラス",
+    "ko": "이보크(오픈카)",
+    "en": "open car",
+    "passangers": 4,
+    "carrier": 2,
+    "cc": 2000
+}, {
+    "ja": "【禁煙車・オープンカー】イヴォークコンバーチブル指定",
+    "ko": "레인지로버 이보크 (오픈카)",
+    "en": "open car",
+    "passangers": 4,
+    "carrier": 2,
+    "cc": 2000
+}, {
+    "ja": "【禁煙車・オープンスポーツ】ボクスター指定",
+    "ko": "포르쉐 박스터 (오픈카)",
+    "en": "open car",
+    "passangers": 2,
+    "carrier": 2,
+    "cc": 2000
+}, {
+    "ja": "【禁煙車・オープンカー】メルセデス・ベンツ オープンカークラス",
+    "ko": "벤츠 오픈카",
+    "en": "open car",
+    "passangers": null,
+    "carrier": 2,
+    "cc": 2000
+}, {
+    "ja": "【禁煙車】マセラティブランド指定",
+    "ko": "마세라티 기블리",
+    "en": "maserati",
+    "passangers": null,
+    "carrier": 2,
+    "cc": 2000
+}, {
+    "ja": "【禁煙車】エクリプスクロス同クラス(O-2)",
+    "ko": "미츠비시 이클립스 크로스",
+    "en": "eclipse cross",
+    "passangers": 5,
+    "carrier": 2,
+    "cc": 2000
+}, {
+    "ja": "【禁煙車】キックスＥ－ＰＯＷＥＲ指定（ＥＤ）",
+    "ko": "닛산 킥스 E-power",
+    "en": "kicks",
+    "passangers": 5,
+    "carrier": 2,
+    "cc": 2000
+}, {
+    "ja": "【禁煙車】フィット同クラス（ＳＡ）",
+    "ko": "피트 소형",
+    "en": "pitt",
+    "passangers": 5,
+    "carrier": 2,
+    "cc": 1000
+}, {
+    "ja": "【禁煙車】ＣＸ-５指定（ＲＤ）",
+    "ko": "CX-5",
+    "en": "cx-5",
+    "passangers": 5,
+    "carrier": 2,
+    "cc": 2000
+}, {
+    "ja": "【禁煙車】レヴォーグ指定（ＲＥ）",
+    "ko": "스바루 레보그",
+    "en": "levorg",
+    "passangers": 5,
+    "carrier": 2,
+    "cc": 2000
+}, {
+    "ja": "【禁煙車】８名乗りワゴン（ＷＡ）",
+    "ko": "8인승 웨건",
+    "en": "",
+    "passangers": 8,
+    "carrier": 2,
+    "cc": 2000
+}, {
+    "ja": "【禁煙車・コンパクト】輸入車コンパクトクラス",
+    "ko": "수입차 컴팩트 클라스",
+    "en": "",
+    "passangers": 4,
+    "carrier": 2,
+    "cc": 1300
+}, {
+    "ja": "【禁煙車・オープンカー】輸入車4名乗りオープンカー同クラス",
+    "ko": "수입 4인승 오픈카",
+    "en": "",
+    "passangers": 4,
+    "carrier": 2,
+    "cc": 1300
+}, {
+    "ja": "【禁煙車・オープンカー】MINIコンバーチブル指定",
+    "ko": "MINI",
+    "en": "",
+    "passangers": 4,
+    "carrier": 2,
+    "cc": 1300
+}, {
+    "ja": "【禁煙車・オープンカー】ザ・ビートル・カブリオレ指定",
+    "ko": "비틀 카브리오레",
+    "en": "",
+    "passangers": 4,
+    "carrier": 2,
+    "cc": 1300
+}, {
+    "ja": "アルファード",
+    "ko": "8인승 알파도",
+    "en": "",
+    "passangers": 8,
+    "carrier": 3,
+    "cc": 2000
+}, {
+    "ja": "ヤリス",
+    "ko": "야리스",
+    "en": "",
+    "passangers": 5,
+    "carrier": 2,
+    "cc": 1000
+}, {
+    "ja": "フィット",
+    "ko": "피트 소형",
+    "en": "",
+    "passangers": 5,
+    "carrier": 2,
+    "cc": 1000
+}, {
+    "ja": "【禁煙車】トール指定(SA)",
+    "ko": "다이하츠 토르",
+    "en": "",
+    "passangers": 5,
+    "carrier": 2,
+    "cc": 1000
+}, {
+    "ja": "【禁煙車】ソリオ指定（ＳＡ）",
+    "ko": "스즈키 소리오",
+    "en": "",
+    "passangers": 5,
+    "carrier": 2,
+    "cc": 1000
+}, {
+    "ja": "【禁煙車】ハリアー指定（ＲＥ）",
+    "ko": "토요타 해리어",
+    "en": "",
+    "passangers": 5,
+    "carrier": 2,
+    "cc": 2000
+}, {
+    "ja": "【禁煙車】ステップワゴン指定（ＷＡ）",
+    "ko": "스탭웨건 8인승",
+    "en": "",
+    "passangers": 8,
+    "carrier": 2,
+    "cc": 2000
+}, {
+    "ja": "【禁煙車】1000cc～1300cc同クラス（C-1）_直前",
+    "ko": "소형차",
+    "en": "",
+    "passangers": 5,
+    "carrier": 2,
+    "cc": 1000
+}, {
+    "ja": "【禁煙車・オープンカー】BMW オープンカークラス",
+    "ko": "BMW 오픈카",
+    "en": "",
+    "passangers": 2,
+    "carrier": 2,
+    "cc": 2000
+}, {
+    "ja": "【禁煙車】グランドキャビン指定（WC10）",
+    "ko": "그랜드 캐빈 10인승",
+    "en": "",
+    "passangers": 10,
+    "carrier": 4,
+    "cc": 2000
+}, {
+    "ja": "【禁煙車】ワゴンR同クラス（K-0）_直前",
+    "ko": "웨건 R",
+    "en": "",
+    "passangers": 4,
+    "carrier": 2,
+    "cc": 660
+}, {
+    "ja": "【禁煙車】フレア同クラス（K-0）",
+    "ko": "마쯔다 프레아",
+    "en": "",
+    "passangers": 4,
+    "carrier": 2,
+    "cc": 660
+}, {
+    "ja": "【禁煙車】1000cc～1300cc同クラス（C-1）",
+    "ko": "소형차",
+    "en": "",
+    "passangers": 5,
+    "carrier": 2,
+    "cc": 1000
+}, {
+    "ja": "【禁煙車】アルファード指定（WC8）",
+    "ko": "8인승 알파도",
+    "en": "",
+    "passangers": 8,
+    "carrier": 3,
+    "cc": 2000
+}, {
+    "ja": "【禁煙車】Ｎ－ＢＯＸ指定（ＫＳ）",
+    "ko": "N-Box",
+    "en": "",
+    "passangers": 5,
+    "carrier": 2,
+    "cc": 660
+}, {
+    "ja": "【禁煙車】シエンタ同クラス（W-1）",
+    "ko": "시엔타(5~7인승: 트렁크 확장시 7인승)",
+    "en": "",
+    "passangers": 7,
+    "carrier": 3,
+    "cc": 2000
+}, {
+    "ja": "【禁煙車】フィット同クラス(SA)_ドライブレコーダー",
+    "ko": "피트 소형",
+    "en": "",
+    "passangers": 5,
+    "carrier": 2,
+    "cc": 1000
+}]
