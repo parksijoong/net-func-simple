@@ -7,6 +7,9 @@
 [functions]
   node_bundler = "esbuild" 
 
+[functions.render]
+  external_node_modules = ["chrome-aws-lambda"]
+  
   ## Uncomment to use this redirect for Single Page Applications like create-react-app.
   ## Not needed for static site generators.
   #[[redirects]]
