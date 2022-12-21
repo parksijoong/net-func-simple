@@ -1,4 +1,5 @@
-const chromium = require('chrome-aws-lambda');
+// const chromium = require('chrome-aws-lambda');
+const chromium = require("@sparticuz/chrome-aws-lambda");
 const puppeteer = require('puppeteer-core');
 const CarSpec = require('./CarSpec.json')  //
 
