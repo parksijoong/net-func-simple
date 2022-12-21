@@ -1,0 +1,22 @@
+{
+  "name": "net-func-simple",
+  "version": "1.0.0",
+  "description": "Learn how to use serverless functions in less than 30 minutes!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/parksijoong/net-func-simple.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/parksijoong/net-func-simple/issues"
+  },
+  "homepage": "https://github.com/parksijoong/net-func-simple#readme",
+  "devDependencies": {
+    "node-fetch": "^2.6.1"
+  }
+}
