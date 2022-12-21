@@ -16,9 +16,6 @@
     "url": "https://github.com/parksijoong/net-func-simple/issues"
   },
   "homepage": "https://github.com/parksijoong/net-func-simple#readme",
-  "devDependencies": {
-    "node-fetch": "^2.6.1"
-  },
   "dependencies": {
     "chrome-aws-lambda": "^10.1.0",
     "puppeteer-core": "^10.4.0"
